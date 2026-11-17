@@ -1,0 +1,6 @@
+bin/
+obj/
+data/
+logs/
+api.key
+.DS_Store
